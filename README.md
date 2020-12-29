@@ -1,4 +1,4 @@
-# Predictive-Boston-housing
+# Predictive Boston housing (End-to-end project)
 
 For this project the Boston House Price dataset will be used. Each record in the database
 describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan
